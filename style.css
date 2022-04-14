@@ -19,8 +19,8 @@ body {
 }
 .break-free > div {
     flex-grow: 2;
-    width: 50%;
-    max-width: 50%;
+    width: 100%;
+    max-width: 100%;
 }
 .break-free img {
     width: 100%;
