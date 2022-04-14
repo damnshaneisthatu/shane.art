@@ -9,7 +9,7 @@ body {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    width: 50%;
+    height: 50%;
 }
 .break-free > div {
     flex-grow: 2;
